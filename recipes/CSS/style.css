@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    text-align : center;
+    font-style: italic;
+}
+
+.the-cook {
+    height : auto;
+    width : 400px;
+    display : block;
+    margin-left : auto;
+    margin-right : auto;
+}
+
+h2 {
+    font-style : italic;
+    font-stretch: narrower;
+}
+
+.parent {
+    font-weight : bold;
+    font-size : 18px;
+}
+
+.parent .balls {
+    color : red;
+}
+
+.parent .macroon {
+    color : purple;
+}
+
+.parent .cookies {
+    color : brown;
+}
+

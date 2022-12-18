@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color : yellow; 
+}
+
+.parent .color {
+    color : red;
+}
+
+.parent .buns {
+    display : block;
+    margin-left : auto;
+    margin-right : auto;
+}
+
+.parent .imp-text {
+    font-weight : bold;
+    color : blue;
+}
+
